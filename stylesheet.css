@@ -1,0 +1,23 @@
+h1 {
+    color: navy;
+    }
+h2 {
+    color: navy;
+    }
+h3 {
+    color: navy;
+    }
+h4 {
+    color: navy;
+    }
+h5 {
+    color: navy;
+    }
+button { 
+    color: navy;
+}
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
